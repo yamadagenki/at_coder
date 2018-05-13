@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.group": "ruby",
+    "*.iam": "ruby",
+    "iostream": "cpp",
+    "__bit_reference": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "hashtable": "cpp"
+  }
+}
